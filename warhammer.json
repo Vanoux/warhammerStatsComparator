@@ -1,0 +1,722 @@
+{
+    "ConquerorSet": {
+        "Order": {
+            "Tanks": {
+                "Knight of the Blazing Sun": [{
+                    "Conqueror Sabatons": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 601,
+                        "Toughness": 16,
+                        "Wounds": 27,
+                        "Initiative": 0,
+                        "Strength": 0,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Block": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Brassarts": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 601,
+                        "Toughness": 15,
+                        "Wounds": 0,
+                        "Initiative": 0,
+                        "Strength": 8,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Parry": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Faulds": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 18,
+                        "Wounds": 12,
+                        "Initiative": 24,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": 0,
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Espalier": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 676,
+                        "Toughness": 32,
+                        "Wounds": 12,
+                        "Initiative": 0,
+                        "Strength": 18,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Reduced armor penetration": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Casque": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 676,
+                        "Toughness": 32,
+                        "Wounds": 10,
+                        "Initiative": 17,
+                        "Strength": 0,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Disrupt": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Corslet": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 751,
+                        "Toughness": 35,
+                        "Wounds": 0,
+                        "Initiative": 0,
+                        "Strength": 19,
+                        "Weapon Skill": 13,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Toughness": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduction critically hit": 5
+                        },
+                        "5piece": {
+                            "On Being Hit": "10% chance to increase Wounds by 100 for 20 seconds"
+                        },
+                        "6piece": {
+                            "Block": 5
+                        }
+                    }]
+                }],
+                "Ironbreaker":[{
+                    "Conqueror Steadkeeps": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 601,
+                        "Toughness": 16,
+                        "Wounds": 27,
+                        "Initiative": 0,
+                        "Strength": 0,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Block": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Irongaunts": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 601,
+                        "Toughness": 15,
+                        "Wounds": 0,
+                        "Initiative": 0,
+                        "Strength": 8,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Parry": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Kladgird": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 0,
+                        "Wounds": 12,
+                        "Initiative": 24,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": 0,
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Ironmantle": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 676,
+                        "Toughness": 32,
+                        "Wounds": 12,
+                        "Initiative": 0,
+                        "Strength": 18,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Reduced armor penetration": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Greathelm": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 676,
+                        "Toughness": 32,
+                        "Wounds": 10,
+                        "Initiative": 17,
+                        "Strength": 0,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Disrupt": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Klad": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 751,
+                        "Toughness": 35,
+                        "Wounds": 0,
+                        "Initiative": 0,
+                        "Strength": 19,
+                        "Weapon Skill": 13,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Toughness": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduction critically hit": 5
+                        },
+                        "5piece": {
+                            "On Being Hit": "10% chance to increase Wounds by 100 for 20 seconds"
+                        },
+                        "6piece": {
+                            "Block": 5
+                        }
+                    }]
+                }],
+                "Swordmaster":[{
+                    "Conqueror Solerets": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 601,
+                        "Toughness": 16,
+                        "Wounds": 27,
+                        "Initiative": 0,
+                        "Strength": 0,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Block": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Vambraces": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 601,
+                        "Toughness": 15,
+                        "Wounds": 0,
+                        "Initiative": 0,
+                        "Strength": 8,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Parry": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Girdment": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 18,
+                        "Wounds": 12,
+                        "Initiative": 24,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": 0,
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Balancers": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 676,
+                        "Toughness": 32,
+                        "Wounds": 12,
+                        "Initiative": 0,
+                        "Strength": 18,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Reduced armor penetration": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Taen": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 676,
+                        "Toughness": 32,
+                        "Wounds": 10,
+                        "Initiative": 17,
+                        "Strength": 0,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Disrupt": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Platecoat": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 751,
+                        "Toughness": 35,
+                        "Wounds": 0,
+                        "Initiative": 0,
+                        "Strength": 29,
+                        "Weapon Skill": 13,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Toughness": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduction critically hit": 5
+                        },
+                        "5piece": {
+                            "On Being Hit": "10% chance to increase Wounds by 100 for 20 seconds"
+                        },
+                        "6piece": {
+                            "Block": 5
+                        }
+                    }]
+                }]
+            },
+            "Melee DPS":{
+                "Witch Hunter":[{
+                    "Conqueror Shankboots": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 200,
+                        "Toughness": 0,
+                        "Wounds": 10,
+                        "Strength": 16,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Melee critical chance": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Coursegloves": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 200,
+                        "Toughness": 0,
+                        "Wounds": 8,
+                        "Strength": 15,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Reduced chance to be parried": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Lash": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 18,
+                        "Wounds": 12,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Melee power":36
+                        },
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Bandolier": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 225,
+                        "Toughness": 18,
+                        "Wounds": 0,
+                        "Strength": 32,
+                        "Weapon Skill": 12,
+                        "Bonus #1": {
+                            "Auto attack haste": 10
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Hat": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 225,
+                        "Toughness": 0,
+                        "Wounds": 17,
+                        "Strength": 32,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Reduced chance to be blocked": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Longcoat": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 250,
+                        "Toughness": 13,
+                        "Wounds": 0,
+                        "Strength": 35,
+                        "Weapon Skill": 19,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Strength": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduced chance to be parried": 5
+                        },
+                        "5piece": {
+                            "On Hit": "25% chance to steal 100 Toughness from you target for 10 seconds "
+                        },
+                        "6piece": {
+                            "Melee critical chance": 5
+                        }
+                    }] 
+                }],
+                "Slayer":[{
+                    "Conqueror Chargers": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 400,
+                        "Toughness": 0,
+                        "Wounds": 10,
+                        "Strength": 16,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Melee critical chance": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Armbraces": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 400,
+                        "Toughness": 0,
+                        "Wounds": 8,
+                        "Strength": 15,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Reduced chance to be parried": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Girdle": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 18,
+                        "Wounds": 12,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Melee power":36
+                        },
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Torc": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 450,
+                        "Toughness": 18,
+                        "Wounds": 0,
+                        "Strength": 32,
+                        "Weapon Skill": 12,
+                        "Bonus #1": {
+                            "Auto attack haste": 10
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror War Shroud": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 450,
+                        "Toughness": 0,
+                        "Wounds": 17,
+                        "Strength": 32,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Reduced chance to be blocked": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Leathers": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 500,
+                        "Toughness": 13,
+                        "Wounds": 0,
+                        "Strength": 35,
+                        "Weapon Skill": 19,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Strength": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduced chance to be parried": 5
+                        },
+                        "5piece": {
+                            "On Hit": "25% chance to steal 100 Toughness from you target for 10 seconds "
+                        },
+                        "6piece": {
+                            "Melee critical chance": 5
+                        }
+                    }] 
+                }],
+                "White Lion":[{
+                    "Conqueror Shinsteels": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 400,
+                        "Toughness": 0,
+                        "Wounds": 10,
+                        "Strength": 16,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Melee critical chance": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Wristguards": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 400,
+                        "Toughness": 0,
+                        "Wounds": 8,
+                        "Strength": 15,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Reduced chance to be parried": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Axebelt": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 18,
+                        "Wounds": 12,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Melee power":36
+                        },
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Mane": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 450,
+                        "Toughness": 18,
+                        "Wounds": 0,
+                        "Strength": 32,
+                        "Weapon Skill": 12,
+                        "Bonus #1": {
+                            "Auto attack haste": 10
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Steelhelm": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 450,
+                        "Toughness": 0,
+                        "Wounds": 17,
+                        "Strength": 32,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Reduced chance to be blocked": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Mailcoat": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 500,
+                        "Toughness": 13,
+                        "Wounds": 0,
+                        "Strength": 35,
+                        "Weapon Skill": 19,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Strength": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduced chance to be parried": 5
+                        },
+                        "5piece": {
+                            "On Hit": "25% chance to steal 100 Toughness from you target for 10 seconds "
+                        },
+                        "6piece": {
+                            "Melee critical chance": 5
+                        }
+                    }] 
+                }]
+
+            },
+            "Ranged DPS":{
+                // Mettre les infos manquantes
+            },
+            "Healers":{
+                // Mettre les infos manquantes
+            }
+        },
+        "Destruction": {}
+
+    }
+}
+
