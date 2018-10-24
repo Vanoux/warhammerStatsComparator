@@ -359,6 +359,354 @@
                         }
                     }]
                 }]
+            },
+            "Melee DPS":{
+                "Witch Hunter":[{
+                    "Conqueror Shankboots": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 200,
+                        "Toughness": 0,
+                        "Wounds": 10,
+                        "Strength": 16,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Melee critical chance": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Coursegloves": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 200,
+                        "Toughness": 0,
+                        "Wounds": 8,
+                        "Strength": 15,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Reduced chance to be parried": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Lash": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 18,
+                        "Wounds": 12,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Melee power":36
+                        },
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Bandolier": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 225,
+                        "Toughness": 18,
+                        "Wounds": 0,
+                        "Strength": 32,
+                        "Weapon Skill": 12,
+                        "Bonus #1": {
+                            "Auto attack haste": 10
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Hat": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 225,
+                        "Toughness": 0,
+                        "Wounds": 17,
+                        "Strength": 32,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Reduced chance to be blocked": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Longcoat": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 250,
+                        "Toughness": 13,
+                        "Wounds": 0,
+                        "Strength": 35,
+                        "Weapon Skill": 19,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Strength": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduced chance to be parried": 5
+                        },
+                        "5piece": {
+                            "On Hit": "25% chance to steal 100 Toughness from you target for 10 seconds "
+                        },
+                        "6piece": {
+                            "Melee critical chance": 5
+                        }
+                    }] 
+                }],
+                "Slayer":[{
+                    "Conqueror Chargers": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 400,
+                        "Toughness": 0,
+                        "Wounds": 10,
+                        "Strength": 16,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Melee critical chance": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Armbraces": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 400,
+                        "Toughness": 0,
+                        "Wounds": 8,
+                        "Strength": 15,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Reduced chance to be parried": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Girdle": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 18,
+                        "Wounds": 12,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Melee power":36
+                        },
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Torc": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 450,
+                        "Toughness": 18,
+                        "Wounds": 0,
+                        "Strength": 32,
+                        "Weapon Skill": 12,
+                        "Bonus #1": {
+                            "Auto attack haste": 10
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror War Shroud": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 450,
+                        "Toughness": 0,
+                        "Wounds": 17,
+                        "Strength": 32,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Reduced chance to be blocked": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Leathers": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 500,
+                        "Toughness": 13,
+                        "Wounds": 0,
+                        "Strength": 35,
+                        "Weapon Skill": 19,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Strength": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduced chance to be parried": 5
+                        },
+                        "5piece": {
+                            "On Hit": "25% chance to steal 100 Toughness from you target for 10 seconds "
+                        },
+                        "6piece": {
+                            "Melee critical chance": 5
+                        }
+                    }] 
+                }],
+                "White Lion":[{
+                    "Conqueror Shinsteels": [{
+                        "Rank": 40,
+                        "Renown": 40,
+                        "Costs": 225,
+                        "Armor": 400,
+                        "Toughness": 0,
+                        "Wounds": 10,
+                        "Strength": 16,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Melee critical chance": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Wristguards": [{
+                        "Rank": 40,
+                        "Renown": 41,
+                        "Costs": 265,
+                        "Armor": 400,
+                        "Toughness": 0,
+                        "Wounds": 8,
+                        "Strength": 15,
+                        "Weapon Skill": 27,
+                        "Bonus #1": {
+                            "Reduced chance to be parried": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Axebelt": [{
+                        "Rank": 40,
+                        "Renown": 42,
+                        "Costs": 95,
+                        "Armor": 0,
+                        "Toughness": 18,
+                        "Wounds": 12,
+                        "Strength": 6,
+                        "Weapon Skill": 0,
+                        "Bonus #1": {
+                            "Melee power":36
+                        },
+                        "Sp.Resist": 74,
+                        "El.Resist": 77,
+                        "Co.Resist": 83
+                    }],
+                    "Conqueror Mane": [{
+                        "Rank": 40,
+                        "Renown": 43,
+                        "Costs": 290,
+                        "Armor": 450,
+                        "Toughness": 18,
+                        "Wounds": 0,
+                        "Strength": 32,
+                        "Weapon Skill": 12,
+                        "Bonus #1": {
+                            "Auto attack haste": 10
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Steelhelm": [{
+                        "Rank": 40,
+                        "Renown": 44,
+                        "Costs": 355,
+                        "Armor": 450,
+                        "Toughness": 0,
+                        "Wounds": 17,
+                        "Strength": 32,
+                        "Weapon Skill": 10,
+                        "Bonus #1": {
+                            "Reduced chance to be blocked": 2
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Conqueror Mailcoat": [{
+                        "Rank": 40,
+                        "Renown": 45,
+                        "Costs": 420,
+                        "Armor": 500,
+                        "Toughness": 13,
+                        "Wounds": 0,
+                        "Strength": 35,
+                        "Weapon Skill": 19,
+                        "Bonus #1": {
+                            "AP": 3
+                        },
+                        "Sp.Resist": 0,
+                        "El.Resist": 0,
+                        "Co.Resist": 0
+                    }],
+                    "Bonus": [{
+                        "2piece": {
+                            "Strength": 66
+                        },
+                        "3piece": {
+                            "Wounds": 66
+                        },
+                        "4piece": {
+                            "Reduced chance to be parried": 5
+                        },
+                        "5piece": {
+                            "On Hit": "25% chance to steal 100 Toughness from you target for 10 seconds "
+                        },
+                        "6piece": {
+                            "Melee critical chance": 5
+                        }
+                    }] 
+                }]
+
             }
         },
         "Destruction": {}
