@@ -709,13 +709,15 @@
 
             },
             "Ranged DPS":{
-                // Mettre les infos manquantes
+               
             }, 
             "Healers":{
-                // Mettre les infos manquantes
+                
             }
         },
-        "Destruction": {}
+        "Destruction": {
+            
+        }
 
     }
 }
