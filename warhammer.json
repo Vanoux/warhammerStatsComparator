@@ -1,0 +1,107 @@
+{
+    "ConquetorSet": {
+        "tanks": {
+            "Knight of the Blazing Sun":[{
+                "Conqueror Sabatons":[{
+                  "Rank":40,
+                  "Renown":40,
+                  "Costs":225,
+                  "Armor":601,
+                  "Toughness":16,
+                  "Wounds":27,
+                  "Initiative":0,
+                  "Strength":0,
+                  "Weapon Skill":10,
+                  "Bonus #1": {"block":3},
+                  "Sp.Resist":0,
+                  "El.Resist":0,
+                  "Co.Resist":0
+                }], 
+                "Conqueror Brassarts":[{
+                  "Rank":40,
+                  "Renown":41,
+                  "Costs":265,
+                  "Armor":601,
+                  "Toughness":15,
+                  "Wounds":0,
+                  "Initiative":0,
+                  "Strength":8,
+                  "Weapon Skill":27,
+                  "Bonus #1": {"parry":2},
+                  "Sp.Resist":0,
+                  "El.Resist":0,
+                  "Co.Resist":0
+                }],
+                "Conqueror Faulds":[{
+                  "Rank":40,
+                  "Renown":42,
+                  "Costs":95,
+                  "Armor":0,
+                  "Toughness":18,
+                  "Wounds":12,
+                  "Initiative":24,
+                  "Strength":6,
+                  "Weapon Skill":0,
+                  "Bonus #1":0,
+                  "Sp.Resist":74,
+                  "El.Resist":77,
+                  "Co.Resist":83
+                }],
+                "Conqueror Espalier":[{
+                    "Rank":40,
+                    "Renown":43,
+                    "Costs":290,
+                    "Armor":676,
+                    "Toughness":32,
+                    "Wounds":12,
+                    "Initiative":0,
+                    "Strength":18,
+                    "Weapon Skill":0,
+                    "Bonus #1": {"reduced armor penetration":2},
+                    "Sp.Resist":0,
+                    "El.Resist":0,
+                    "Co.Resist":0
+                }],
+                "Conqueror Casque":[{
+                    "Rank":40,
+                    "Renown":44,
+                    "Costs":355,
+                    "Armor":676,
+                    "Toughness":32,
+                    "Wounds":10,
+                    "Initiative":17,
+                    "Strength":0,
+                    "Weapon Skill":0,
+                    "Bonus #1": {"disrupt":2},
+                    "Sp.Resist":0,
+                    "El.Resist":0,
+                    "Co.Resist":0
+                }],
+                "Conqueror Corslet":[{
+                    "Rank":40,
+                    "Renown":45,
+                    "Costs":420,
+                    "Armor":751,
+                    "Toughness":35,
+                    "Wounds":0,
+                    "Initiative":0,
+                    "Strength":19,
+                    "Weapon Skill":13,
+                    "Bonus #1": {"AP":3},
+                    "Sp.Resist":0,
+                    "El.Resist":0,
+                    "Co.Resist":0
+                }],
+                "Bonus":[{
+                    "2piece": {"Toughness":66},
+                    "3piece": {"Wounds":66},
+                    "4piece": {"Reduction critically hit":5},
+                    "5piece": {"On Being Hit": "10% chance to increase Wounds by 100 for 20 seconds"},
+                    "6piece": {"Block":5}
+                }]
+            }]
+            } 
+            
+        }
+    }
+}
